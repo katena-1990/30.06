@@ -1,0 +1,15 @@
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\задача1.csproj.AssemblyReference.cache
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\задача1.GeneratedMSBuildEditorConfig.editorconfig
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\задача1.AssemblyInfoInputs.cache
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\задача1.AssemblyInfo.cs
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\задача1.csproj.CoreCompileInputs.cache
+D:\курсы\Новая папка\задача1\bin\Debug\net6.0\задача1.exe
+D:\курсы\Новая папка\задача1\bin\Debug\net6.0\задача1.deps.json
+D:\курсы\Новая папка\задача1\bin\Debug\net6.0\задача1.runtimeconfig.json
+D:\курсы\Новая папка\задача1\bin\Debug\net6.0\задача1.dll
+D:\курсы\Новая папка\задача1\bin\Debug\net6.0\задача1.pdb
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\задача1.dll
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\refint\задача1.dll
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\задача1.pdb
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\задача1.genruntimeconfig.cache
+D:\курсы\Новая папка\задача1\obj\Debug\net6.0\ref\задача1.dll
